@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello bia, it's a pleasure to have you here with us  👋
 
 <!--
 **bia-gt/bia-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
